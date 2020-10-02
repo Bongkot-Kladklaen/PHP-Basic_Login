@@ -1,3 +1,5 @@
+CREATE DATABASE basic_login CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+USE basic_login;
 CREATE TABLE users(
     id INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(100) NOT NULL,
