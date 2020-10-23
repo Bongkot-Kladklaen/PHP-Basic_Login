@@ -51,4 +51,4 @@ $ cd PHP-Basic_Login
     ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
